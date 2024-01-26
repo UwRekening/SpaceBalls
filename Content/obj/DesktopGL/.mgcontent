@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ogime/source/repos/SpaceInvaders_Monogame/Content/../../../../Downloads/deadScreen.png</File>
+    <File>C:/Users/ogime/source/repos/SpaceInvaders_Monogame/Content/../../../../Downloads/mainScreen.png</File>
+    <File>C:/Users/ogime/source/repos/SpaceInvaders_Monogame/Content/../../../../Downloads/yct20hubfk061.png</File>
+    <File>C:/Users/ogime/source/repos/SpaceInvaders_Monogame/Content/49-490764_pixel-pizza-vector-spaceship-pixel-art-png-transparent.png</File>
+    <File>C:/Users/ogime/source/repos/SpaceInvaders_Monogame/Content/ball.png</File>
+    <File>C:/Users/ogime/source/repos/SpaceInvaders_Monogame/Content/Bullet.png</File>
+    <File>C:/Users/ogime/source/repos/SpaceInvaders_Monogame/Content/Fonts/File.spritefont</File>
+    <File>C:/Users/ogime/source/repos/SpaceInvaders_Monogame/Content/yct20hubfk061.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>deadScreen.png</File>
+    <File>mainScreen.png</File>
+    <File>yct20hubfk061.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
