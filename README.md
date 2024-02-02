@@ -1,4 +1,4 @@
-<img width="1280" alt="game5" src="https://github.com/UwRekening/FastPaced/assets/66946691/99969b6e-d7bc-4a2c-9628-e52cbb60e371">
+<img width="1280" alt="logo" src="https://github.com/UwRekening/SpaceBalls/assets/66946691/5487d137-03ba-47b8-b565-91cd4e70f890">
 
 # SpaceBalls 🌑
 
