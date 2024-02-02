@@ -1,4 +1,4 @@
-![Logo](https://github.com/UwRekening/FastPaced/assets/66946691/99969b6e-d7bc-4a2c-9628-e52cbb60e371)
+<img width="1280" alt="game5" src="https://github.com/UwRekening/FastPaced/assets/66946691/99969b6e-d7bc-4a2c-9628-e52cbb60e371">
 
 # SpaceBalls 🌑
 
